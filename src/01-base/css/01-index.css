@@ -1,0 +1,9 @@
+.active {
+  background: green;
+}
+#id {
+  background-color: blue;
+}
+.hidden {
+  display: none;
+}
